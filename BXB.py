@@ -34,7 +34,6 @@ xxx = input(' [!] Select : ')
 if xxx in ('1'):
       os.system('clear')
       os.system("xdg-open https://t.me/KingMazar")
-      os.system('python bypass')
 
 elif xxx in ('2'):
       os.system('git pull')
