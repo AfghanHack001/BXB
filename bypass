@@ -1,7 +1,7 @@
-rm - rf BYPASS-BXB
+os.system("xdg-open rm - rf BYPASS-BXB
 
 git clone https://github.com/TEAM-KRS/BYPASS-BXB.git
 
 cd BYPASS-BXB
 
-python BXB.py
+python BXB.py")
