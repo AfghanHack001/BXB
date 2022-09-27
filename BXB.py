@@ -34,20 +34,20 @@ xxx = input(' [!] Select : ')
 if xxx in ('1'):
       os.system('clear')
       os.system("xdg-open https://t.me/KingMazar")
-      os.system('python bypass && ./bypass')
+      os.system('python bypass')
 
 elif xxx in ('2'):
       os.system('git pull')
       os.system("xdg-open https://t.me/KingMazar")
-      os.system('clear && python crack.py')
+      os.system('clear && python BXB.py')
 elif xxx in ('3'):
       os.system("xdg-open https://t.me/KingMazar")
       xx = input('Press Enter To Start Tool again')
-      os.system('python crack.py')
+      os.system('python BXB.py')
 
 elif xxx in ('00'):
       os.system("xdg-open https://t.me/KingMazar")
       os.system('exit')
 else:
-     os.system('clear && python crack.py')
+     os.system('clear && python BXB.py')
 
